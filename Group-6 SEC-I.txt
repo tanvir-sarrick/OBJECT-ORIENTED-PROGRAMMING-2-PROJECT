@@ -1,0 +1,54 @@
+					BAZARE DAM KEMON 1.0
+
+SOFTWARE AND FRAMEWORK USED
+
+1. Microsoft Visual Studio 2019
+2. SQL Server 2014 Management Studio
+
+
+User Guide:
+1. In the beginning from the Home Page you can choose as a user you want to be and click on that Button and fill the form to become a member (Farmer, Customer)
+2. After Registration you can log in and enter to your account.
+3. As a Farmer in the first page you can see a product information chat box, where you can input the product details you want to sale.
+4. From that page you can also update, delete your product list. And you can also reset your list while input your product list
+5. As a customer in the first page you can see the list of products for sale, and also you can find the product you need and order that from there.
+6. As a farmer there is another page where you can see the order list from the customer.
+7. As a admin of the system you can easily log in to your account with the Name and password.
+8. As a admin you can see the details of Farmer and Customer, and you can delete their accounts for their irresponsible activities.
+9. As a admin you can also see the transections happening with customers and farmer.
+10. And finally you can find the details of developer and admin from the About Us page.
+
+
+Project Limitation 
+
+1. It is not a web-based application.
+2. User operation is not flexible for users.
+
+Developed By 
+
+1. AHMAD ZAMIL ->19-40400-1
+2. EHSAN TALUKDER -> 19-40370
+3. MD. TANVIR SARRICK ->18-38389-2
+
+Supervised By
+
+MD. NAZMUL HOSSAIN
+Lecturer
+American International University-Bangladesh
+
+
+We want to dedicate our project to our honourable sir. Who worked tiredlessly throughout the semester to teach us everything.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

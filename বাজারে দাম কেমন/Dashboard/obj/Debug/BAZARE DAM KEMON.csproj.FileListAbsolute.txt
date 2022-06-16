@@ -1,0 +1,24 @@
+C:\Users\ASUS\Desktop\OOP2\PROJECT\PROJECT-V4 -Update\বাজারে দাম কেমন\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\ASUS\Desktop\OOP2\PROJECT\PROJECT-V4 -Update\বাজারে দাম কেমন\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\ASUS\Desktop\OOP2\PROJECT\PROJECT-V4 -Update\বাজারে দাম কেমন\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\ASUS\Desktop\OOP2\PROJECT\PROJECT-V4 -Update\বাজারে দাম কেমন\Dashboard\obj\Debug\BAZARE DAM KEMON.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\OOP2\PROJECT\PROJECT-V4 -Update\বাজারে দাম কেমন\Dashboard\obj\Debug\Dashboard.About_Us.resources
+C:\Users\ASUS\Desktop\OOP2\PROJECT\PROJECT-V4 -Update\বাজারে দাম কেমন\Dashboard\obj\Debug\Dashboard.Admin_Dashboard.resources
+C:\Users\ASUS\Desktop\OOP2\PROJECT\PROJECT-V4 -Update\বাজারে দাম কেমন\Dashboard\obj\Debug\Dashboard.Admin_Login.resources
+C:\Users\ASUS\Desktop\OOP2\PROJECT\PROJECT-V4 -Update\বাজারে দাম কেমন\Dashboard\obj\Debug\Dashboard.Admin_Order.resources
+C:\Users\ASUS\Desktop\OOP2\PROJECT\PROJECT-V4 -Update\বাজারে দাম কেমন\Dashboard\obj\Debug\Dashboard.Admin_to_Customer.resources
+C:\Users\ASUS\Desktop\OOP2\PROJECT\PROJECT-V4 -Update\বাজারে দাম কেমন\Dashboard\obj\Debug\Dashboard.Admin_to_Farmer.resources
+C:\Users\ASUS\Desktop\OOP2\PROJECT\PROJECT-V4 -Update\বাজারে দাম কেমন\Dashboard\obj\Debug\Dashboard.Customer_Login.resources
+C:\Users\ASUS\Desktop\OOP2\PROJECT\PROJECT-V4 -Update\বাজারে দাম কেমন\Dashboard\obj\Debug\Dashboard.Customer_Registration.resources
+C:\Users\ASUS\Desktop\OOP2\PROJECT\PROJECT-V4 -Update\বাজারে দাম কেমন\Dashboard\obj\Debug\Dashboard.Customer_to_Farmer.resources
+C:\Users\ASUS\Desktop\OOP2\PROJECT\PROJECT-V4 -Update\বাজারে দাম কেমন\Dashboard\obj\Debug\Dashboard.Farmer_Login.resources
+C:\Users\ASUS\Desktop\OOP2\PROJECT\PROJECT-V4 -Update\বাজারে দাম কেমন\Dashboard\obj\Debug\Dashboard.Farmer_Order_Customer.resources
+C:\Users\ASUS\Desktop\OOP2\PROJECT\PROJECT-V4 -Update\বাজারে দাম কেমন\Dashboard\obj\Debug\Dashboard.Farmer_Registration.resources
+C:\Users\ASUS\Desktop\OOP2\PROJECT\PROJECT-V4 -Update\বাজারে দাম কেমন\Dashboard\obj\Debug\Dashboard.Farmer_Storage.resources
+C:\Users\ASUS\Desktop\OOP2\PROJECT\PROJECT-V4 -Update\বাজারে দাম কেমন\Dashboard\obj\Debug\Dashboard.Intro.resources
+C:\Users\ASUS\Desktop\OOP2\PROJECT\PROJECT-V4 -Update\বাজারে দাম কেমন\Dashboard\obj\Debug\Dashboard.Opening.resources
+C:\Users\ASUS\Desktop\OOP2\PROJECT\PROJECT-V4 -Update\বাজারে দাম কেমন\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\ASUS\Desktop\OOP2\PROJECT\PROJECT-V4 -Update\বাজারে দাম কেমন\Dashboard\obj\Debug\BAZARE DAM KEMON.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\OOP2\PROJECT\PROJECT-V4 -Update\বাজারে দাম কেমন\Dashboard\obj\Debug\BAZARE DAM KEMON.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\OOP2\PROJECT\PROJECT-V4 -Update\বাজারে দাম কেমন\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\ASUS\Desktop\OOP2\PROJECT\PROJECT-V4 -Update\বাজারে দাম কেমন\Dashboard\obj\Debug\Dashboard.pdb

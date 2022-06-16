@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAZARE DAM KEMON", "Dashboard\BAZARE DAM KEMON.csproj", "{181EB99E-3EE5-442C-9B71-03C94A0D760D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{16816527-2492-46CE-9574-17B777A4ABAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{181EB99E-3EE5-442C-9B71-03C94A0D760D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{181EB99E-3EE5-442C-9B71-03C94A0D760D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{181EB99E-3EE5-442C-9B71-03C94A0D760D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{181EB99E-3EE5-442C-9B71-03C94A0D760D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16816527-2492-46CE-9574-17B777A4ABAB}.Debug|Any CPU.ActiveCfg = Debug
+		{16816527-2492-46CE-9574-17B777A4ABAB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {663EFC09-9A39-4176-ACBB-4FAC083DC7C3}
+	EndGlobalSection
+EndGlobal

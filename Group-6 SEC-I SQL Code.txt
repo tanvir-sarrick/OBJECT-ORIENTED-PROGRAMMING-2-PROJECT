@@ -1,0 +1,140 @@
+********************** ADMIN TABLE**********************
+CREATE DATABASE AGROOPRODUCT_DB;
+
+CREATE TABLE ADMIN_TBL
+(
+	USERNAME VARCHAR(30) NOT NULL,
+	PASS NVARCHAR(30) NOT NULL
+);
+
+INSERT INTO ADMIN_TBL VALUES('TANVIR','12345');
+INSERT INTO ADMIN_TBL VALUES('ZAMIL','1234');
+INSERT INTO ADMIN_TBL VALUES('EHSAN','2222');
+
+SELECT * FROM ADMIN_TBL;
+
+LOG IN:
+"select * from admin_tbl where username=@user and pass=@pass"
+
+**************************FARMER TABLE**************************
+CREATE TABLE FARMER_TBL
+(
+	ID INT PRIMARY KEY IDENTITY,
+	NAME VARCHAR(30) NOT NULL,
+	USERNAME VARCHAR(30) NOT NULL,
+	ADDRESS VARCHAR(50) NOT NULL,
+	NID VARCHAR(16) NOT NULL,
+	PHONE VARCHAR(15) NOT NULL,
+	PASS VARCHAR(30) NOT NULL,
+	PICTURE IMAGE NOT NULL
+);
+
+SELECT * FROM FARMER_TBL;
+
+LOG IN :
+"select * from farmer_tbl where username=@user and pass=@pass"
+
+Delete FARMER:
+"delete from farmer_tbl where id='" + id + "'"
+Insert product Item:
+"insert into farmerproduct_tbl values (@item,@amount,@price,@date,@pic)"
+
+Update product Item:
+"update farmerproduct_tbl set item=@item,amount=@amount,price=@price,edate=@date,picture=@pic where id='" + id +"'"
+
+Delete product Item:
+"delete from farmerproduct_tbl where id='" + id + "'"
+
+DROP TABLE FARMER_TBL;
+
+**************************CUSTOMER TABLE**************************
+CREATE TABLE CUSTOMER_TBL
+(
+	ID INT PRIMARY KEY IDENTITY,
+	NAME VARCHAR(30) NOT NULL,
+	USERNAME VARCHAR(30) NOT NULL,
+	ADDRESS VARCHAR(50) NOT NULL,
+	NID VARCHAR(16) NOT NULL,
+	PHONE VARCHAR(15) NOT NULL,
+	PASS VARCHAR(30) NOT NULL,
+	PICTURE IMAGE NOT NULL
+);
+
+SELECT * FROM CUSTOMER_TBL;
+
+Registration:
+"insert into farmer_tbl values (@name,@username,@address,@nid,@phone,@pass,@pic)"
+
+LOG IN :
+"select * from customer_tbl where username=@user and pass=@pass"
+
+CUSTOMER REGISTRATION:
+"insert into customer_tbl values (@name,@username,@address,@nid,@phone,@pass,@pic)"
+
+Search Product:
+"select * from farmerproduct_tbl where item like '" + this.textBox4.Text + "%' "
+
+Delete CUSTOMER:
+
+"delete from customer_tbl where id='" + id + "'"
+
+DROP TABLE CUSTOMER_TBL;
+
+****************************************************************
+CREATE TABLE FARMERPRODUCT_TBL
+(
+	ID INT PRIMARY KEY IDENTITY,
+	ITEM VARCHAR(30) NOT NULL,
+	AMOUNT VARCHAR(30) NOT NULL,
+	PRICE VARCHAR(30) NOT NULL,
+	EDATE VARCHAR(30),
+	PICTURE IMAGE NOT NULL
+	
+);
+
+SELECT * FROM FARMERPRODUCT_TBL;
+
+DROP TABLE FARMERPRODUCT_TBL;
+
+
+**************************ORDER_TBL**************************************
+
+CREATE TABLE ORDER_TBL
+(
+	ID INT PRIMARY KEY IDENTITY,
+	ITEM VARCHAR(30) NOT NULL,
+	AMOUNT VARCHAR(30) NOT NULL,
+	PRICE VARCHAR(30) NOT NULL,
+	PICTURE IMAGE NOT NULL
+	
+);
+SELECT * FROM ORDER_TBL;
+
+Data Insert For Order:
+"insert into order_tbl values (@item,@amount,@price,@pic)"
+
+
+
+Counting Users:
+"select count(*) from farmer_tbl"
+
+"select count(*) from customer_tbl"
+
+"select count(*) from order_tbl"
+
+"select count(*) from admin_tbl"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
